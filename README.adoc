@@ -61,6 +61,8 @@ image::{image-url-ironhack}[width=70]
 ====
 toc::[]
 
+xref:Which-kind-of-movies[Bottom section]
+
 The database is structured as follows:
 
 image::{image-sakila}[width=200]
@@ -134,7 +136,7 @@ image::[width=700]
 
 xref:Lab-SQL-Queries-7[Top Section]
 
-xref:Which-kind-of-movies[Bottom section]
+
 
 
 ////
