@@ -1,5 +1,5 @@
 
-= Lab | xxxx
+= Lab xxxx
 :stylesheet: boot-darkly.css
 :linkcss: boot-darkly.css
 :image-url-ironhack: https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png
@@ -82,7 +82,7 @@ toc::[]
 
 Back to <<Lab Instructions:>>
 
-Go back to xref:Lab-|-xxxx[Top].
+Go back to xref:Lab-xxxx[Top].
 ////
 .Unordered list title
 * gagagagagaga
