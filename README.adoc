@@ -73,7 +73,7 @@ toc::[]
 ''''
 ====
 
-Back to <<{Lab Instructions:}>>
+Back to <<{lab-instructions}>>
 
 
 
