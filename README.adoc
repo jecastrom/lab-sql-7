@@ -82,7 +82,7 @@ toc::[]
 
 
 
-Back to xref:Lab-xxxx[Top]
+xref:Lab-xxxx[Top Section]
 
 ////
 .Unordered list title
