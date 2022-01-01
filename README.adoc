@@ -82,7 +82,8 @@ toc::[]
 
 
 
-Go back to xref:Lab-xxxx[Top]
+Back to xref:Lab-xxxx[Top]
+
 ////
 .Unordered list title
 * gagagagagaga
