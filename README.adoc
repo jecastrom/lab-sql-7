@@ -67,7 +67,7 @@ image::{image-sakila}[width=200]
 
 
 
-<img src="" alt="Drawing" style="width: 300px;"/>
+
 
 {description}
 
