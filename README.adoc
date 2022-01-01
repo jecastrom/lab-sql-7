@@ -73,14 +73,37 @@ image::{image-sakila}[width=200]
 
 
 = Instructions:
-== Question or request.
+== In the table actor, which are the actors whose last names are not repeated? For example if you would sort the data in the table actor by last_name, you would see that there is Christian Arkoyd, Kirsten Arkoyd, and Debbie Arkoyd. These three actors have the same last name. So we do not want to include this last name in our output. Last name "Astaire" is present only one time with actor "Angelina Astaire", hence we would want this in our output list.
 
 
 `*_Answer:_*`
 
-=== sjhdshds dhsjdh
-==== jksskj
-===== Last section
+== Which last names appear more than once? We would use the same logic as in the previous question but this time we want to include the last names of the actors where the last name was present more than once.
+
+`*_Answer:_*`
+
+
+== Using the rental table, find out how many rentals were processed by each employee
+
+`*_Answer:_*`
+
+== Using the film table, find out how many films were released each year
+
+`*_Answer:_*`
+
+== Using the film table, find out for each rating how many films were there
+
+`*_Answer:_*`
+
+== What is the mean length of the film for each rating type. Round off the average lengths to two decimal places?
+
+`*_Answer:_*`
+
+== Which kind of movies (rating) have a mean duration of more than two hours?
+
+`*_Answer:_*`
+
+
 
 ====
 ''''
