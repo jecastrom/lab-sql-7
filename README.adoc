@@ -4,7 +4,7 @@
 :linkcss: boot-darkly.css
 :image-url-ironhack: https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png
 :my-name: Jorge Castro DAPT NOV2021
-:description: Lab Instructions:
+:description:
 :script-url: https://github.com/jecastrom/data_2.07_activities/blob/7abfb6a0375c2c4ad3021f3f9a388a495142e1a8/files_for_actitity/act%202.07%20solutions.sql
 :toc:
 :toc-title: Lab description: In this lab, you will....
@@ -73,7 +73,7 @@ toc::[]
 ''''
 ====
 
-Back to <<{toc-title}>>
+Back to <<Lab Content:>>
 
 
 
