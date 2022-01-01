@@ -60,7 +60,7 @@ toc::[]
 {description}
 
 
-= Lab Content:
+= Lab Instructions:
 == Question or request.
 
 ====
@@ -73,7 +73,7 @@ toc::[]
 ''''
 ====
 
-Back to <<Lab Content:>>
+Back to <<Lab Instructions:>>
 
 
 
