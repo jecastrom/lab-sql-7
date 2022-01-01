@@ -81,6 +81,8 @@ toc::[]
 ====
 
 Back to <<Lab Instructions:>>
+
+Go back to xref:Jorge-Castro[Top].
 ////
 .Unordered list title
 * gagagagagaga
@@ -135,7 +137,7 @@ RAM:: Temporarily stores information the CPU uses during operation.
 
 ////
 
-The text pass:[<u>underline me</u>] is underlined.
+
 
 bold *constrained* & **un**constrained
 
