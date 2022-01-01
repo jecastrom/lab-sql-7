@@ -61,7 +61,7 @@ image::{image-url-ironhack}[width=70]
 ====
 toc::[]
 
-xref:Which-kind-of-movies[Bottom section]
+xref:Which kind of movies (rating) have a mean duration of more than two hours?[Bottom section]
 
 The database is structured as follows:
 
