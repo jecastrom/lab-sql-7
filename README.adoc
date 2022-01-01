@@ -78,30 +78,44 @@ image::{image-sakila}[width=200]
 
 `*_Answer:_*`
 
+image::[width=700]
+
 == Which last names appear more than once? We would use the same logic as in the previous question but this time we want to include the last names of the actors where the last name was present more than once.
 
 `*_Answer:_*`
+
+image::[width=700]
 
 
 == Using the rental table, find out how many rentals were processed by each employee
 
 `*_Answer:_*`
 
+image::[width=700]
+
 == Using the film table, find out how many films were released each year
 
 `*_Answer:_*`
+
+image::[width=700]
 
 == Using the film table, find out for each rating how many films were there
 
 `*_Answer:_*`
 
+image::[width=700]
+
 == What is the mean length of the film for each rating type. Round off the average lengths to two decimal places?
 
 `*_Answer:_*`
 
+image::[width=700]
+
 == Which kind of movies (rating) have a mean duration of more than two hours?
 
 `*_Answer:_*`
+
+image::[width=700]
 
 
 
@@ -120,7 +134,7 @@ image::{image-sakila}[width=200]
 
 xref:Lab-SQL-Queries-7[Top Section]
 
-xref:Last-section[Bottom section]
+xref:Which-kind-of-movies[Bottom section]
 
 
 ////
