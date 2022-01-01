@@ -82,7 +82,7 @@ toc::[]
 
 Back to <<Lab Instructions:>>
 
-Go back to xref:Jorge-Castro[Top].
+Go back to xref:Lab-Instructions:[Top].
 ////
 .Unordered list title
 * gagagagagaga
