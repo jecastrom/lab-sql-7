@@ -53,7 +53,7 @@ image::{image-url-ironhack}[width=70]
 
 {my-name}
 
-xref:Last-section[Bottom section]
+
                                                      
 ====
 ''''
@@ -87,6 +87,9 @@ toc::[]
 
 
 xref:Lab-xxxx[Top Section]
+
+xref:Last-section[Bottom section]
+
 
 ////
 .Unordered list title
