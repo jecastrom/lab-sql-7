@@ -61,7 +61,7 @@ toc::[]
 {description}
 
 
-= Lab Instructions:
+= Instructions:
 == Question or request.
 
 `*Answer:*`
@@ -80,7 +80,7 @@ toc::[]
 ''''
 ====
 
-Back to <<Lab Instructions:>>
+
 
 Go back to xref:Lab-xxxx[Top].
 ////
