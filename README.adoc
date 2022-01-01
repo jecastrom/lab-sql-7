@@ -135,6 +135,8 @@ RAM:: Temporarily stores information the CPU uses during operation.
 
 ////
 
+The text pass:[<u>underline me</u>] is underlined.
+
 bold *constrained* & **un**constrained
 
 italic _constrained_ & __un__constrained
@@ -150,4 +152,4 @@ monospace italic `_constrained_` & ``__un__``constrained
 monospace bold italic `*_constrained_*` & ``**__un__**``constrained
 
 
-Type the word [.userinput]#asciidoc# into the search bar.
+
