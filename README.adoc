@@ -157,7 +157,18 @@ image::https://user-images.githubusercontent.com/63274055/147875153-43ee0144-830
 
 `*_Answer:_*`
 
-image::[width=700]
+```sql
+SELECT
+    rating,
+    count(*) AS count_of_films_per_rating
+FROM
+    film
+GROUP BY
+    1;
+```
+
+
+image::https://user-images.githubusercontent.com/63274055/147875395-477ea008-9749-41de-abb0-042b0c98426b.png[width=700]
 
 == What is the mean length of the film for each rating type? 
 

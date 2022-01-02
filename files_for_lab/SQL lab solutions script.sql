@@ -36,3 +36,10 @@ FROM
 GROUP BY
     1;
 -- Using the film table, find out for each rating how many films were there
+SELECT
+    rating,
+    count(*) AS count_of_films_per_rating
+FROM
+    film
+GROUP BY
+    1;
