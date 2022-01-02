@@ -27,3 +27,12 @@ FROM
     rental
 GROUP BY
     staff_id;
+-- 4. Using the film table, find out how many films were released each year
+SELECT
+    release_year,
+    count(*) AS number_of_films_reseased
+FROM
+    film
+GROUP BY
+    1;
+-- Using the film table, find out for each rating how many films were there

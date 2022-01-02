@@ -141,7 +141,17 @@ image::https://user-images.githubusercontent.com/63274055/147872183-5e6e9ffb-22a
 
 `*_Answer:_*`
 
-image::[width=700]
+```sql
+SELECT
+    release_year,
+    count(*) AS number_of_films_reseased
+FROM
+    film
+GROUP BY
+    1;
+```
+
+image::https://user-images.githubusercontent.com/63274055/147875074-36642c28-e582-400e-b608-34c029835acd.png[width=700]
 
 == Using the film table, find out for each rating how many films were there
 
