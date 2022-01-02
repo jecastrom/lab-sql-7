@@ -105,9 +105,7 @@ We would use the same logic as in the previous question but this time we want to
 
 image::[width=700]
 
-====
-''''
-====
+
 
 
 == Using the rental table, find out how many rentals were processed by each employee
