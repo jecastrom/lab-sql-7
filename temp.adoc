@@ -6,7 +6,7 @@
 :description: SQL queries Activities
 :script-url: https://github.com/jecastrom/lab-sql-7/blob/8c33b99ade61dbb6bfc1275404bd2f495cc8cc7c/files_for_lab/SQL%20lab%20solutions%20script.sql
 :toc-title: Activities | Description:
-:toc-placement:
+:toc-placement!:
 :toclevels: 5
 :fn-xxx: Add the explanation foot note here bla bla
 ifdef::env-github[]
