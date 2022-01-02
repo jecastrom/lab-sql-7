@@ -103,7 +103,19 @@ We would use the same logic as in the previous question but this time we want to
 
 `*_Answer:_*`
 
-image::[width=700]
+```sql
+SELECT
+    first_name,
+    last_name
+FROM
+    actor
+GROUP BY
+    last_name
+HAVING
+    count(last_name) > 1;
+```
+
+image::https://user-images.githubusercontent.com/63274055/147871912-8e74953d-c847-4c8e-b20a-8d17641402a5.png[width=700]
 
 
 

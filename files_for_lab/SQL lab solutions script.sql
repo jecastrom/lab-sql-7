@@ -9,3 +9,14 @@ GROUP BY
     last_name
 HAVING
     count(last_name) = 1;
+-- 2. Which last names appear more than once?
+SELECT
+    first_name,
+    last_name
+FROM
+    actor
+GROUP BY
+    last_name
+HAVING
+    count(last_name) > 1;
+-- 3. Using the rental table, find out how many rentals were processed by each employee
