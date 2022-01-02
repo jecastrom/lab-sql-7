@@ -124,7 +124,18 @@ image::https://user-images.githubusercontent.com/63274055/147871912-8e74953d-c84
 
 `*_Answer:_*`
 
-image::[width=700]
+```sql
+SELECT
+    count(*) AS total_rental_processed,
+    staff_id
+FROM
+    rental
+GROUP BY
+    staff_id;
+
+```
+
+image::https://user-images.githubusercontent.com/63274055/147872183-5e6e9ffb-22a7-4e17-8a39-1d967b00b607.png[width=700]
 
 == Using the film table, find out how many films were released each year
 

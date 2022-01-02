@@ -20,3 +20,10 @@ GROUP BY
 HAVING
     count(last_name) > 1;
 -- 3. Using the rental table, find out how many rentals were processed by each employee
+SELECT
+    count(*) AS total_rental_processed,
+    staff_id
+FROM
+    rental
+GROUP BY
+    staff_id;
