@@ -82,7 +82,20 @@ For example if you would sort the data in the table actor by last_name, you woul
 
 `*_Answer:_*`
 
-image::[width=700]
+```sql
+SELECT
+    first_name,
+    last_name
+FROM
+    actor
+GROUP BY
+    last_name
+HAVING
+    count(last_name) = 1;
+```
+
+
+image::https://user-images.githubusercontent.com/63274055/147871522-f08815ed-861e-4c45-a193-fb30a1a6d821.png[width=700]
 
 == Which last names appear more than once? 
 
@@ -91,6 +104,10 @@ We would use the same logic as in the previous question but this time we want to
 `*_Answer:_*`
 
 image::[width=700]
+
+====
+''''
+====
 
 
 == Using the rental table, find out how many rentals were processed by each employee
