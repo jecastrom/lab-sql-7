@@ -6,7 +6,7 @@
 :image-sakila: https://user-images.githubusercontent.com/63274055/147394200-2fdeec2e-a41a-4094-b544-dede2b263d96.png
 :my-name: Jorge Castro DAPT NOV2021
 :description:
-:script-url: 
+:script-url: https://github.com/jecastrom/lab-sql-7/blob/8c33b99ade61dbb6bfc1275404bd2f495cc8cc7c/files_for_lab/SQL%20lab%20solutions%20script.sql
 :toc:
 :toc-title: Lab description: In this lab, you will be using the Sakila database of movie rentals. You have been using this database for a couple labs already, but if you need to get the data again, refer to the official installation link.
 :toc-placement!:
@@ -20,9 +20,9 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 :experimental:
-:table-caption!:
-:example-caption!:
-:figure-caption!:
+:table-caption:
+:example-caption:
+:figure-caption:
 :idprefix:
 :idseparator: -
 :linkattrs:
