@@ -84,7 +84,9 @@ For example if you would sort the data in the table actor by last_name, you woul
 
 image::[width=700]
 
-== Which last names appear more than once? We would use the same logic as in the previous question but this time we want to include the last names of the actors where the last name was present more than once.
+== Which last names appear more than once? 
+
+We would use the same logic as in the previous question but this time we want to include the last names of the actors where the last name was present more than once.
 
 `*_Answer:_*`
 
@@ -109,7 +111,9 @@ image::[width=700]
 
 image::[width=700]
 
-== What is the mean length of the film for each rating type. Round off the average lengths to two decimal places?
+== What is the mean length of the film for each rating type? 
+
+Round off the average lengths to two decimal places.
 
 `*_Answer:_*`
 
