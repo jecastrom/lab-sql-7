@@ -17,9 +17,9 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 :experimental:
-:table-caption:
+:table-caption!:
 :example-caption:
-:figure-caption:
+:figure-caption!:
 :idprefix:
 :idseparator: -
 :linkattrs:
