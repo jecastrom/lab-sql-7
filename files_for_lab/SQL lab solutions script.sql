@@ -52,3 +52,11 @@ FROM
 GROUP BY
     1;
 --7. Which kind of movies (rating) have a mean duration of more than two hours?
+SELECT
+    rating
+FROM
+    film
+GROUP BY
+    1
+HAVING
+    avg(length) > 2 * 60;

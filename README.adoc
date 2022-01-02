@@ -193,7 +193,20 @@ image::https://user-images.githubusercontent.com/63274055/147875612-94297fbd-3b7
 
 `*_Answer:_*`
 
-image::[width=700]
+```sql
+SELECT
+    rating
+FROM
+    film
+GROUP BY
+    1
+HAVING
+    avg(length) > 2 * 60;
+```
+
+
+image::https://user-images.githubusercontent.com/63274055/147876273-301d4574-62a6-4698-8398-f01e257e1b4e.png[width=700]
+
 
 
 
