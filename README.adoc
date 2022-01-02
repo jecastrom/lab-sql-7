@@ -254,7 +254,7 @@ xref:Lab-SQL-Queries-7[Top Section]
 
 [NOTE]
 ====
-A sample note admonition.
+A sample note admonition..
 ====
  
 TIP: It works!
