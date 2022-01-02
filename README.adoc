@@ -144,14 +144,14 @@ image::https://user-images.githubusercontent.com/63274055/147872183-5e6e9ffb-22a
 ```sql
 SELECT
     release_year,
-    count(*) AS number_of_films_reseased
+    count(*) AS number_of_films_released
 FROM
     film
 GROUP BY
     1;
 ```
 
-image::https://user-images.githubusercontent.com/63274055/147875074-36642c28-e582-400e-b608-34c029835acd.png[width=700]
+image::https://user-images.githubusercontent.com/63274055/147875153-43ee0144-8307-4583-92f8-71a12843d467.png[width=700]
 
 == Using the film table, find out for each rating how many films were there
 

@@ -30,7 +30,7 @@ GROUP BY
 -- 4. Using the film table, find out how many films were released each year
 SELECT
     release_year,
-    count(*) AS number_of_films_reseased
+    count(*) AS number_of_films_released
 FROM
     film
 GROUP BY
