@@ -11,6 +11,7 @@
 :toc-placement!:
 :toclevels: 5
 //:1NF: Each record cell should contain a single value.
+:linkattrs:
 ifdef::env-github[]
 :sectnums:
 :tip-caption: :bulb:
@@ -24,7 +25,6 @@ ifdef::env-github[]
 :figure-caption!:
 :idprefix:
 :idseparator: -
-:linkattrs:
 :fontawesome-ref: http://fortawesome.github.io/Font-Awesome
 :icon-inline: {user-ref}/#inline-icons
 :icon-attribute: {user-ref}/#size-rotate-and-flip
