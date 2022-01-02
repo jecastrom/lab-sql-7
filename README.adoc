@@ -86,7 +86,7 @@ image::[width=700]
 ''''
 ====
 
-{script-url}[Solutions script only]
+{script-url}[Solutions script only, window="_blank"]
 
 ====
 ''''
