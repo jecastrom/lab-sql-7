@@ -176,7 +176,18 @@ Round off the average lengths to two decimal places.
 
 `*_Answer:_*`
 
-image::[width=700]
+```sql
+SELECT
+    rating,
+    floor(avg(length)) AS film_mean_length_in_min
+FROM
+    film
+GROUP BY
+    1;
+```
+
+
+image::https://user-images.githubusercontent.com/63274055/147875612-94297fbd-3b70-498b-ab1e-c8fc454ed7af.png[width=700]
 
 == Which kind of movies (rating) have a mean duration of more than two hours?
 

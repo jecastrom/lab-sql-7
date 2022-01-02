@@ -35,7 +35,7 @@ FROM
     film
 GROUP BY
     1;
--- Using the film table, find out for each rating how many films were there
+-- 5- Using the film table, find out for each rating how many films were there
 SELECT
     rating,
     count(*) AS count_of_films_per_rating
@@ -43,3 +43,12 @@ FROM
     film
 GROUP BY
     1;
+-- 6. What is the mean length of the film for each rating type?
+SELECT
+    rating,
+    floor(avg(length)) AS film_mean_length_in_min
+FROM
+    film
+GROUP BY
+    1;
+--7. Which kind of movies (rating) have a mean duration of more than two hours?
