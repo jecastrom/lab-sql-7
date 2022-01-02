@@ -82,7 +82,7 @@ For example if you would sort the data in the table actor by last_name, you woul
 
 `*_Answer:_*`
 
-image::https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png[width=700]
+image::[width=700]
 
 == Which last names appear more than once? 
 
